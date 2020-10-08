@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\bin\Debug\DataGridViewDeleteInsert.exe.config
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\bin\Debug\DataGridViewDeleteInsert.exe
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\bin\Debug\DataGridViewDeleteInsert.pdb
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.Form1.resources
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.Properties.Resources.resources
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.exe
+C:\Users\Eren\source\repos\DataGridViewDeleteInsert\DataGridViewDeleteInsert\obj\Debug\DataGridViewDeleteInsert.pdb
